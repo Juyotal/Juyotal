@@ -12,7 +12,7 @@ I like the unglamorous parts that make LLMs actually reliable in production: eva
 
 ### Currently up to
 
-Stepping into the open-source world, poking here and there to make meaningful contributions and leave a few traces along the way.
+Establishing myself in the open-source community, contributing thoughtfully and aiming to leave each project a little better than I found it.
 
 ### Stack
 
