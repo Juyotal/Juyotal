@@ -1,10 +1,34 @@
-- 👋 Hi, I’m @Juyotal
-- 👀 I’m intrested in tech, learning, anime
-- 🌱 I’m currently learning mechatronics eng, software dev
-- 💞️ I’m looking to collaborate on ...
-- 📫 reach me on cesarkamga3@gmail.com
+# Hi, I'm Jules 👋
 
-<!---
-Juyotal/Juyotal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**LLM systems & agents engineer.** I build production AI systems, evals, tool integrations, and MCP servers, and I ship them end-to-end.
+
+I like the unglamorous parts that make LLMs actually reliable in production: eval harnesses that catch regressions, tool and API integrations that don't break, and agent plumbing that does real work instead of demos.
+
+### What I work on
+
+- **LLM systems** — evaluation harnesses, prompt and tool reliability, backtesting agent behavior
+- **Agents & MCP** — tool-use integrations and MCP servers that connect models to real systems
+- **Applied extraction** — LLM-powered document extraction and validation (currently in healthcare claims)
+
+### Currently building
+
+- 🔧 A search-tool integration for [crewAI](https://github.com/crewAIInc/crewAI), wiring a new provider into the agent tooling layer
+- 🧪 An evaluation and backtesting harness for the [UMA](https://github.com/UMAprotocol/protocol) `llm-bot`, turning a stubbed LLM layer into something measurable
+- 📄 **Claim Scrubber** — a 3-layer extract → validate → report pipeline for healthcare claims
+
+### Stack
+
+`Python` · `TypeScript` · `LLM APIs (Anthropic / OpenAI)` · `MCP` · `agent frameworks` · `evals`
+
+### Reach me
+
+Always happy to talk about hard LLM/agent problems.
+
+- 📫 cesarkamga3@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/jules-t-774291207/)
+
+<!--
+Placement: this file lives in a repo named exactly `Juyotal` (github.com/Juyotal/Juyotal),
+as README.md at the root. GitHub renders it on your profile automatically.
+Add pinned repos once the crewAI/UMA PRs are public.
+-->
