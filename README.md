@@ -10,11 +10,9 @@ I like the unglamorous parts that make LLMs actually reliable in production: eva
 - **Agents & MCP** — tool-use integrations and MCP servers that connect models to real systems
 - **Applied extraction** — LLM-powered document extraction and validation (currently in healthcare claims)
 
-### Currently building
+### Currently up to
 
-- 🔧 A search-tool integration for [crewAI](https://github.com/crewAIInc/crewAI), wiring a new provider into the agent tooling layer
-- 🧪 An evaluation and backtesting harness for the [UMA](https://github.com/UMAprotocol/protocol) `llm-bot`, turning a stubbed LLM layer into something measurable
-- 📄 **Claim Scrubber** — a 3-layer extract → validate → report pipeline for healthcare claims
+Stepping into the open-source world, poking here and there to make meaningful contributions and leave a few traces along the way.
 
 ### Stack
 
