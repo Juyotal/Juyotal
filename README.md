@@ -10,10 +10,6 @@ I like the unglamorous parts that make LLMs actually reliable in production: eva
 - **Agents & MCP** — tool-use integrations and MCP servers that connect models to real systems
 - **Applied extraction** — LLM-powered document extraction and validation (currently in healthcare claims)
 
-### Currently up to
-
-Establishing myself in the open-source community, contributing thoughtfully and aiming to leave each project a little better than I found it.
-
 ### Stack
 
 `Python` · `TypeScript` · `LLM APIs (Anthropic / OpenAI)` · `MCP` · `agent frameworks` · `evals`
